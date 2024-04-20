@@ -1,0 +1,6 @@
+fileignoreconfig:
+- filename: hardware.md
+  checksum: b0c8f74a43a98ba9d9f3c62adafb5f26f4b7b99b87061388ca82b94a88395d45
+- filename: stackrack.md
+  checksum: 13fb4743571ea6f3dbe032fb2f2224bedb070fcee7686387669363e1105d9928
+version: "1.0"
