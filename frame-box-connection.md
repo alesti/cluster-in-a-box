@@ -33,14 +33,13 @@ I like connections which are revertable without a drill.
 
 Read the last sentence again :-) But anyhow:
 
-The case is made from polypropylen which counts as a low adhesive material.
+The case is made from polypropylene which counts as a low adhesive and hard to bond material.
 This needs special glue, i found three types:
 
-- speed glue, but not very elastic, does not fill gaps
-- 2 component glue from M3 Scotch which will not selled to private persons and
-  even not to profesional gluers without having them a special mandatory
-  security instruction.
-- a hot glue system which is easy to handle
+- Acrylat based super glue, but they are not very elastic and do not fill gaps
+- [3M Scotch Weld DP 8005](https://www.google.com/search?q=3M+Scotch-Weld%E2%84%A2+DP+8005) a 2 component glue which cannot be purchased bei private persons and even not to profesional glue guys without having them a special mandatory
+  security instruction. Besides that it is really expensive.
+- [technicoll® 9310](https://www.technicoll.eu/adhesive/technicoll-9310-3.html) a hot glue system which is easy to handle and relatively cheap.
 
 
 Schaumstoff
