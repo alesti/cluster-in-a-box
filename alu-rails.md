@@ -7,7 +7,7 @@ I have a small wood workshop, but wood (multiplex boards and
 similar) looking not suitable for this project.  I started to search for aluminium system
 profiles. 
 
-## Aluminium profile systems
+## Aluminium system profiles
 
 These system profiles use grooves (named t-slots) on squared profiles which can
 use suitable t-slot nuts with threads in them to connect to other profiles with
@@ -44,11 +44,14 @@ meters of that profile system i would need, i decided to buy  I-type rails in
 can be slotted in in every position, not only from the end). The diameter of
 the threads in these nuts is M5.
 
+![Aluminium profiles in the shop)](pics/alu-profiles_sm.jpg)
+
 I bought also plenty 90° angles, t-slot nuts and suitable (lol, read later)
 screws to construct an inner cage for the odroid stacks and for the display in
 the lid.
 
 ![Aluminium profile angles, i-type)](pics/alu-angle_sm.jpg)
+![Aluminium nuts and bolts)](pics/alu-nuts-and-angles_sm.jpg)
 
 I bought also some metal working stuff i had not so far: 
 - An aluminium blade for my miter saw
