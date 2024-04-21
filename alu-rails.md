@@ -1,10 +1,10 @@
 # Inner construction 
 
-I need some material to store and connect 3 of the Odroid stacks safely in the
+I need some material to store and connect 3 of the [Odroid stacks](stackrack.md) safely in the
 box. 
 
-I have a small wood workshop, but for that project wood (multiplex boards and
-similar) looking not suitable.  I started to search for aluminium system
+I have a small wood workshop, but wood (multiplex boards and
+similar) looking not suitable for this project.  I started to search for aluminium system
 profiles. 
 
 ## Aluminium profile systems
@@ -34,7 +34,7 @@ I found this (german) pages useful to dive into the alu profile thingie:
 The profiles are available from 20mm edge length up to 80mm, Item provides a
 profile in a [wood compound
 material](https://www.item24.com/de-de/profil-kh-8-40x40-anthrazit-62686) which
-looks very intersting for me (it can be worked with wood sawblades and other
+looks very interesting for me (it can be worked with wood sawblades and other
 wood tools), but only on 40x40mm - i am very sure that 20x20 is strong enough
 for this purpose.
 
@@ -48,9 +48,34 @@ I bought also plenty 90° angles, t-slot nuts and suitable (lol, read later)
 screws to construct an inner cage for the odroid stacks and for the display in
 the lid.
 
-I bought an aluminium blade for my mitr saw, a M5 thread cutter (to grind
-threads into the end of a profile) and a steel needle to apply marks for
-measurements.
+![Aluminium profile angles, i-type)](pics/alu-angle_sm.jpg)
 
-There is also a tools chapter later.
+I bought also some metal working stuff i had not so far: 
+- An aluminium blade for my miter saw
+- A M5 thread cutter (to grind threads into the end of a profile) and 
+- A steel needle to apply marks for measurements.
+
+Despide i am a desperate stick welder on agriculture equipement and other 
+big game stuff, and i am also able to handle an angle grinder properly i do not
+consider me as a full metal guy, but hey - its only aluminium and there is also
+a tools chapter later to describe that better.
+
+## Some impressions
+
+
+### t-slot nuts
+
+There are different types.  For me important: I need to set or remove them at
+any time, even if rails are already screwed together.  There are types which
+can only applied from the front side (slide in).  Other can be squeesed in
+anywhere, some of them click in right in place, other needed to be fidled into
+the right position and directly screewd to be manageble and not flipping in a
+bad position.
+
+FIXME 
+
+### Screws
+
+Its a system. You need right the right screws - i ordered the rails, t-slot
+nuts, screws, angels all together to 
 

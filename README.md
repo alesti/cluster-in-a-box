@@ -67,36 +67,30 @@ Learning from the experiences above and the thing Tim from BrainGu built, i want
 to connect the already working small stacks with a easy to handle, rugged
 container. 
 
-### Container
+## Outer shell - box
 
-This is an extra chapter [Container and Boxes](container.md)
+This is an extra chapter [Outer shell and boxes](box.md).
 
-### Inner construction 
+## A inner rig for the stacks 
 
-This is an extra chapter [Inside the Box](inner-construction.md)
+This is an extra chapter [inner rig](inner-construction.md).
 
 
-### Connect the inner cage to the case
+## Connect the inner frame to the case
 
 I am not yet sure if i want to connect the alu frame in a solid way to the case. 
-But if, i need to explore the possibilities.
+But if, i needed to explore the possibilities.
 
-This is also an extra chapter [Connect the Rack with the Box](box-connection.md)
-
-
-### Interfaces
-
-Nieten
-Schaumstoff
-Rausnehmbar
-
-Skills / Tools
+This is also an extra chapter [Connect the frame with the box](frame-box-connection.md).
 
 
+## Interfaces
 
-Gasdruckfeder
+This is a show case, so it should be possible to view and interact with the rig.
 
-Powersocket
 
-Display
-Keyboard 
+## Skills and Tools
+
+What skills and which tools are needed to build this thing?
+
+## Costs
