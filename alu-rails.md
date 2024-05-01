@@ -4,8 +4,9 @@ I need some material to store and connect 3 of the [Odroid stacks](stackrack.md)
 box. 
 
 I have a small wood workshop, but wood (multiplex boards and
-similar) looking not suitable for this project.  I started to search for aluminium system
-profiles. 
+similar) is looking not suitable for this project.
+
+I started to search for aluminium system profiles. 
 
 ## Aluminium system profiles
 
@@ -60,7 +61,7 @@ I ordered also some metal working stuff i had not so far:
 - A M5 thread cutter (to grind threads into the end of a profile) and 
 - A steel needle to apply marks for measurements.
 
-I am a desperate stick welder lookalike (on agriculture equipement and other 
+I am a desperate stick welder (on agriculture equipment and other 
 big game stuff) and i am able to handle an angle grinder, but i do not
 consider me as a metal guy, but hey - its only Albert „Al“uminium Borland and there is also
 a tools chapter later to describe that better.
@@ -104,5 +105,31 @@ These profiles are really easy to cut with the mighty miter saw (if you running
 an aluminium blade), but afterwards there are tons of saw chips everywhere -
 even with proper suction.
 
-Do your workshop a favor and run theses cuts outside - it will not polute steel
+Do your workshop a favor and run theses cuts outside - it will not polute any steel
 with rust.
+
+I started to build a first set of rails around the handle bulb. The connector
+angles help to create perfectly fitting.
+
+![ground work](pic/ground-rig_sm.jpg)
+
+The handle bulb is 19.something mm high, so the 20mm rails match perfectly.
+
+I was a little concerned about the edges of the box - they are rounded. But
+thats not a problem for these type of construction.
+
+I did not needed much time to find a way to pinch the stackracks in a secure
+and sturdy way in all dimensions between these rails and started to cut and
+mount rails.
+
+Please note that at this time i worked with mockups, one stack had no odroids
+and no switch, one is only 3 pieces not four - this will be fixed later.
+
+I will also add some dense foam between rails and stacks to have some suspension.
+
+![intermediate cage](pic/cage_sm.jpg)
+![intermediate cage](pic/cage_with_stack_sm.jpg)
+
+cage nicht kleben
+
+![
