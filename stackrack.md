@@ -8,7 +8,7 @@ An improved version with H2 types and better fan distribution (february 2023) on
 
 ![2nd generation case with Odroids (H2 in black, H3 in colored rack)](pics/case-2nd-gen_sm.jpg)
 
-I burned down a lot of smaller filament remains, so it has really ugly colours :-)
+I burned a lot of smaller filament remains down, so it has really ugly colours :-)
 [Here are some more pictures](https://photos.google.com/share/AF1QipOEYq0544IV67harl58_uC0024xNleLqJeiRTEjn7_saC3fTc6Ne1Pnuho2mmJ2EA?key=SUhpWUtIOFYzX0pybnV2RXV3aVNjRk9uWXVsazFR) 
 
 This case design is genius while it is not only endless stackable but it
