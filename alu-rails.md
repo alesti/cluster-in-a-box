@@ -19,9 +19,11 @@ In europe are two predominant, quite similar looking but not compatible
 systems present, i do not know if other markets have them also or use different
 systems. 
 
-These systems are named with a letter for the inventors (B for Bosch-Rexroth
-or I for Item), there are a lot of other manufacturers which build them also,
-all profiles of one type are compatible to the same system.
+These systems are named with a letter for the inventors (B for
+[Bosch-Rexroth](https://www.boschrexroth.com/de/de/produkte/produktgruppen/montagetechnik/themen/aluminiumprofile-loesungen-komponenten/)
+or I for [Item](https://www.item24.com/de-de/profiltechnik)), there are a lot
+of other manufacturers which build them also, all profiles of one type are
+compatible to the same system.
 
 The differences between the systems are the shapes of the t-slots, the shapes
 of the nuts and their thread diameters - from my perspective: It does not
@@ -40,8 +42,8 @@ for this purpose.
 
 After some wild drawings to get a somehow realistic idea how many running
 meters of that profile system i would need, i decided to buy  I-type rails in
-20x20mm with 5mm t-slot, the t-slot nuts (FIXME Link/Bild) with a sphere (these
-can be slotted in in every position, not only from the end). The diameter of
+20x20mm with 5mm t-slot, the t-slot nuts (see pictures below) with a sphere (these
+can be slotted in from the side, not only from the end). The diameter of
 the threads in these nuts is M5.
 
 ![Aluminium profiles in the shop)](pics/alu-profiles_sm.jpg)
@@ -58,8 +60,8 @@ I bought also some metal working stuff i had not so far:
 - A M5 thread cutter (to grind threads into the end of a profile) and 
 - A steel needle to apply marks for measurements.
 
-Despide i am a desperate stick welder on agriculture equipement and other 
-big game stuff and i do not fear to handle an angle grinder properly i do not
+I am a desperate stick welder lookalike (on agriculture equipement and other 
+big game stuff) and i am able to handle an angle grinder, but i do not
 consider me as a metal guy, but hey - its only aluminium and there is also
 a tools chapter later to describe that better.
 
@@ -70,15 +72,28 @@ a tools chapter later to describe that better.
 
 There are different types.  For me important: I need to set or remove them at
 any time, even if rails are already screwed together.  There are types which
-can only applied from the front side (slide in).  Other can be squeesed in
+can only applied from the front side (slide in).  Other can be squeezed in
 anywhere, some of them click in right in place, other needed to be fidled into
 the right position and directly screewd to be manageble and not flipping in a
 bad position.
 
-FIXME 
+![Nutstein I-Type 5 M5](https://www.motedis.com/media-images/product/4226_0/w-700/Nutenstein-mit-Steg-I-Typ-Nut-5-M5.webp)
 
-### Screws
+### You might be screwed
 
-Its a system. You need right the right screws - i ordered the rails, t-slot
-nuts, screws, angels all together to 
+Its a system. 
+
+You just need the damn right screws - i ordered the rails, t-slot
+nuts, screws, angles all together, and i ordered 12mm long screws - i learned
+that this configuration needs 10mm screws.
+
+As you might expect, this is normed (a german DIN 7380) - and it seems not
+possible to get these on a saturday afternoon in a local hardware store, they
+have them with a bigger head only and these colide with each other in the 90°
+angles i use to connect the profiles.
+
+![wrong screws](pics/wrong-screw-head_sm.jpg)
+
+I needed to stop and order the right ones. Does someone need 200p 12mm M5 DIN
+7380 with hex head? Or 200p 10mm M5 not normed bighead?  
 
