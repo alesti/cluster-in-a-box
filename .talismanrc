@@ -1,4 +1,6 @@
 fileignoreconfig:
+- filename: alu-rails.md
+  checksum: 6cfe9705324f89c28836d6fb8f71f9d1cdb120d86bb6f86579827f574a83e53e
 - filename: hardware.md
   checksum: b0c8f74a43a98ba9d9f3c62adafb5f26f4b7b99b87061388ca82b94a88395d45
 - filename: stackrack.md
