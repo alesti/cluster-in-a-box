@@ -37,7 +37,7 @@ The case is made from polypropylene which counts as a low adhesive and hard to b
 This needs special glue, i found three types:
 
 - Acrylat based super glue, but they are not very elastic and do not fill gaps
-- [3M Scotch Weld DP 8005](https://www.google.com/search?q=3M+Scotch-Weld%E2%84%A2+DP+8005) a 2 component glue which cannot be purchased bei private persons and even not to profesional glue guys without having them a special mandatory
+- [3M Scotch Weld DP 8005](https://www.google.com/search?q=3M+Scotch-Weld%E2%84%A2+DP+8005) a 2 component glue which cannot be purchased by private persons and even not to profesional glue guys without having them a special mandatory
   security instruction. Besides that it is really expensive.
 - [technicoll® 9310](https://www.technicoll.eu/adhesive/technicoll-9310-3.html) a hot glue system which is easy to handle and relatively cheap.
 

@@ -59,8 +59,8 @@ I bought also some metal working stuff i had not so far:
 - A steel needle to apply marks for measurements.
 
 Despide i am a desperate stick welder on agriculture equipement and other 
-big game stuff, and i am also able to handle an angle grinder properly i do not
-consider me as a full metal guy, but hey - its only aluminium and there is also
+big game stuff and i do not fear to handle an angle grinder properly i do not
+consider me as a metal guy, but hey - its only aluminium and there is also
 a tools chapter later to describe that better.
 
 ## Some impressions

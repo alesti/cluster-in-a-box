@@ -35,14 +35,13 @@ wanted to train and check our assumptions.
 
 Known problems:
 - I built that rack by plywood and flightcase aluminium profiles, it was very
-    heavy and was not really easy to carry around. 
+    heavy and not easy to carry. 
     
     We used that thing to find problem with our setup, but we never moved it to
     conferences or customers to showcase our setup - it was just to heavy and
     difficult to transport.
 - Switches, power supplies and nodes could not be removed or changed in a easy
-- way, in that case we
-    would need a to do a lot of dissassembly work.
+    way, in that case we would need a to do a lot of dissassembly work.
 - The rack was not as stable from corner to a diagonal corner as expected - it had 
     no back lid to stabilize it.
 - Starting with COVID-19 and working from home we
@@ -73,7 +72,7 @@ This is an extra chapter [Outer shell and boxes](box.md).
 
 ## A inner rig for the stacks 
 
-This is an extra chapter [inner rig](inner-construction.md).
+This is an extra chapter [Inner rig](alu-rails.md).
 
 
 ## Connect the inner frame to the case
