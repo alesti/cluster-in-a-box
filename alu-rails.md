@@ -105,13 +105,13 @@ These profiles are really easy to cut with the mighty miter saw (if you running
 an aluminium blade), but afterwards there are tons of saw chips everywhere -
 even with proper suction.
 
-Do your workshop a favor and run theses cuts outside - it will not polute any steel
+Do your workshop a favor and run these cuts outside - it will not polute any steel
 with rust.
 
 I started to build a first set of rails around the handle bulb. The connector
 angles help to create perfectly fitting.
 
-![ground work](pic/ground-rig_sm.jpg)
+![ground work](pics/ground-rig_sm.jpg)
 
 The handle bulb is 19.something mm high, so the 20mm rails match perfectly.
 
@@ -127,8 +127,8 @@ and no switch, one is only 3 pieces not four - this will be fixed later.
 
 I will also add some dense foam between rails and stacks to have some suspension.
 
-![intermediate cage](pic/cage_sm.jpg)
-![intermediate cage](pic/cage_with_stack_sm.jpg)
+![intermediate cage](pics/cage_sm.jpg)
+![intermediate cage](pics/cage_with_stack_sm.jpg)
 
 cage nicht kleben
 
