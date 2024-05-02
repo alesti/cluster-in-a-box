@@ -62,7 +62,7 @@ I ordered also some metal working stuff i had not so far:
 - A steel needle to apply marks for measurements.
 
 I am a desperate stick welder (on agriculture equipment and other 
-big game stuff) and i am able to handle an angle grinder, but i do not
+big game stuff) and i am able to use an angle grinder, but i do not
 consider me as a metal guy, but hey - its only Albert „Al“uminium Borland and there is also
 a tools chapter later to describe that better.
 
@@ -125,11 +125,16 @@ mount rails.
 Please note that at this time i worked with mockups, one stack had no odroids
 and no switch, one is only 3 pieces not four - this will be fixed later.
 
-I will also add some dense foam between rails and stacks to have some suspension.
+I will also add some [dense foam](frame-box-connection#foam) between rails and
+stacks to have some suspension.
 
 ![intermediate cage](pics/cage_sm.jpg)
 ![intermediate cage](pics/cage_with_stack_sm.jpg)
 
-cage nicht kleben
+It is really easy to use these angles to connect rails in a very sturdy way.
+There are also preformed corners to connect two or three rails directly in the
+corner, but they are more expensive and there is no margin left for adjusting
+some 1/10 mm if neccessary.
 
-![
+![with powersupply](pics/cage-psu_sm.jpg)
+
