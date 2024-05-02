@@ -31,6 +31,8 @@ dedicated power supply per DC, bgp routing, hsm, bootstrapping with dedicated
 origin nodes per DC and stuff like that) as the real production setup - we
 wanted to train and check our assumptions.
 
+![figo-labcluster](pics/figo-cluster_sm.jpg)
+
 [Pictures of figo labcluster](https://photos.app.goo.gl/ya45xb5jxJ1xBKEp7) 
 
 Known problems:
