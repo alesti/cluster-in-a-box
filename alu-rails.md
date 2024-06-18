@@ -56,7 +56,7 @@ the lid.
 ![Aluminium profile angles, i-type)](pics/alu-angle_sm.jpg)
 ![Aluminium nuts and bolts)](pics/alu-nuts-and-angles_sm.jpg)
 
-I ordered also some metal working stuff i had not so far: 
+I ordered also some metal working tools i did not had so far: 
 - An aluminium blade for my miter saw
 - A M5 thread cutter (to grind threads into the end of a profile) and 
 - A steel needle to apply marks for measurements.
@@ -73,9 +73,9 @@ a tools chapter later to describe that better.
 There are different types.  For me important: I need to set or remove them at
 any time, even if rails are already screwed together.  There are types which
 can only applied from the front side (slide in).  Other can be squeezed in
-anywhere, some of them click in right in place, other needed to be fidled into
-the right position and directly screwed to be manageble and not flipping in a
-bad position.
+anywhere, some of them click in right in place (the springloaded ball nuts),
+other needed to be fidled into the right position and directly screwed to not
+flipping in a bad position.
 
 ![Nutstein I-Type 5 M5](https://www.motedis.com/media-images/product/4226_0/w-700/Nutenstein-mit-Steg-I-Typ-Nut-5-M5.webp)
 
@@ -83,40 +83,41 @@ bad position.
 
 Its a system. 
 
-You just need the damn right screws - i ordered the rails, t-slot
-nuts, screws, angles all together, and i ordered 12mm long screws - i learned
-that this configuration needs 10mm screws.
+You just need the damn right screws - i ordered the rails, t-slot nuts, screws,
+angles all together, and i ordered 12mm long screws - i learned very fast that
+this configuration needs 10mm screws as the angles wiggled around with some mm
+thread left between screw head and angle.
 
 As you might expect, this is normed (a german DIN 7380) - and it seems not
 possible to get these on a saturday afternoon in a local hardware store, they
-have them with a bigger head only and these colide with each other in the 90°
-angles i use to connect the profiles.
+have them with a much bigger pozidrive head only and these colide with each
+other in the 90° angles i use to connect the profiles.
 
 ![wrong screws](pics/wrong-screw-head_sm.jpg)
 
 I needed to stop and order the right ones. 
 
-Does someone need 200p 12mm M5 DIN 7380 with hex head? Or 200p 10mm M5 not
+Does someone need 200 pieces 12mm M5 DIN 7380 with hex head? Or 200x 10mm M5 not
 normed bighead pozidrive?
 
 ## Construction
 
 These profiles are really easy to cut with the mighty miter saw (if you running
 an aluminium blade), but afterwards there are tons of saw chips everywhere -
-even with proper suction.
+even with proper vacuum suction.
 
 Do your workshop a favor and run these cuts outside - it will not polute any steel
 with rust.
 
 I started to build a first set of rails around the handle bulb. The connector
-angles help to create perfectly fitting.
+angles help to create perfect fitting.
 
 ![ground work](pics/ground-rig_sm.jpg)
 
 The handle bulb is 19.something mm high, so the 20mm rails match perfectly.
 
 I was a little concerned about the edges of the box - they are rounded. But
-thats not a problem for these type of construction.
+thats not a problem for this type of construction.
 
 I did not needed much time to find a way to pinch the stackracks in a secure
 and sturdy way in all dimensions between these rails and started to cut and
@@ -126,7 +127,7 @@ Please note that at this time i worked with mockups, one stack had no odroids
 and no switch, one is only 3 pieces not four - this will be fixed later.
 
 I will also add some [dense foam](frame-box-connection#foam) between rails and
-stacks to have some suspension.
+stacks to have some suspension against hard impacts.
 
 ![intermediate cage](pics/cage_sm.jpg)
 ![intermediate cage](pics/cage_with_stack_sm.jpg)

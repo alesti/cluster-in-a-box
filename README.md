@@ -33,13 +33,13 @@ wanted to train and check our assumptions.
 
 ![figo-labcluster](pics/figo-cluster_sm.jpg)
 
-[Pictures of figo labcluster](https://photos.app.goo.gl/ya45xb5jxJ1xBKEp7) 
+More [pictures of figo labcluster](https://photos.app.goo.gl/ya45xb5jxJ1xBKEp7) 
 
 Known problems:
 - I built that rack by plywood and flightcase aluminium profiles, it was very
     heavy and not easy to carry. 
     
-    We used that thing to find problem with our setup, but we never moved it to
+    We used that thing to find problems with our setup, but we never moved it to
     conferences or customers to showcase our setup - it was just to heavy and
     difficult to transport.
 - Switches, power supplies and nodes could not be removed or changed in a easy
