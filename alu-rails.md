@@ -4,7 +4,7 @@ I need some material to store and connect 3 of the [Odroid stacks](stackrack.md)
 box. 
 
 I have a small wood workshop, but wood (multiplex boards and
-similar) is looking not suitable for this project.
+similar) is not looking suitable for this project.
 
 I started to search for aluminium system profiles. 
 
@@ -130,7 +130,7 @@ I will also add some [dense foam](frame-box-connection#foam) between rails and
 stacks to have some suspension against hard impacts.
 
 ![intermediate cage](pics/cage_sm.jpg)
-![intermediate cage](pics/cage_with_stack_sm.jpg)
+![intermediate cage](pics/cage_with_stacks_sm.jpg)
 
 It is really easy to use these angles to connect rails in a very sturdy way.
 There are also preformed corners to connect two or three rails directly in the
