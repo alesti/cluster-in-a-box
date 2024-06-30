@@ -67,30 +67,31 @@ I created a printable fan connector [see stackrack](stackrack.md) and opted to u
 NF-A6x25 5V PWM](https://noctua.at/de/products/fan/nf-a6x25-5v-pwm) fans in it
 as 60mm is the regular hight of the rackmount.
 
-### Power Supply
+### Power Supply Unit
 
 The Odroids drain up to 4 Amps each with two SATA disks and under full cpu load
 with 15V DC, the MikroTik is also fine with 15V, so i bought a [ham radio power
 supply](https://www.komerci.de/shop/stromversorgung/Festspannungsnetzgeraete/ps30swiv-festspannungsnetzgeraet-13-8v-30a-lcd)
 with 15V and 30 Amps max and some 5.5 mm dc power jacks with open wires and
-build a suitable power distribution cable.
+assembled a suitable power distribution cable.
 
 ![psu](pics/psu_sm.jpg)
 
-In real live a H2/H3 with 8/16GB RAM and 250GB M2 'disk' consumes less than ~1A
+In real live an Odroid H2/H3 with 8 or 16GB RAM and 250GB M2 'disk' consumes less than ~1A
 as far as there is no real spinning SATA disk involved.
 
-I added an external fan to the PSU - there is one in it, but bad quality and really loud if running. The fan is just connected to the DC output.
+I added an external fan to the PSU - there is one in it, but bad quality and
+really loud if running. The fan is just connected to the DC output.
 
 ![fan-psu](pics/fan-psu_sm.jpg)
 
 ### Display 
 
-To be completly selfcontained i needed at least one Screen or a tablet to show what happens.
+To be completly selfcontained i needed at least one screen or a tablet to show what happens.
 It should run on the same dc power and needs hdmi to get connected.
 
 I opted for external laptop displays which aim to run as easy to transport and
-connect 2nd display for laptop users.  
+easy to connect as a 2nd display for traveling laptop users.  
 
 They have a decent resolution and run on usb power. It was difficult to find
 some with hdmi besides the really cheap chinese no-brand thingies, most of the
@@ -100,6 +101,6 @@ of my container.
 
 ![screen-fitting](pics/screen-fitting_sm.jpg)
 
-I choose [Verbatim PM-14](https://www.amazon.de/dp/B0BVL1KKK) for 90 € each. I
+I choosed [Verbatim PM-14](https://www.amazon.de/dp/B0BVL1KKK). I
 am not sure if Verbatim is still a real brand, but i dont care, they are good
 enough to peek into k9s or something similar.

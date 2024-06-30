@@ -1,9 +1,10 @@
 # Connect the inner cage to the case
 
-I am not sure yet if i want to connect the alu frame in a solid way to the case. 
-It might be also possible to establish a tight fit but no direct connection.
+(In the time i started to write stuff down) I was not sure yet if i want to
+connect the alu frame in a solid way to the case.  It might be also possible to
+establish a tight fit but no direct connection.
 
-But if, i need to explore the possibilities.
+But if, i needed to explore the possibilities.
 
 There are slots on the brim of the lid and the bottom, and the manufacturer has
 matching hardware to slot in.
@@ -25,18 +26,30 @@ Read the last sentence again :-) But anyhow:
 The case is made from polypropylene which counts as a low adhesive and hard to
 bond material.  This needs special glue, i found three types:
 
-- Acrylat based super glue, but it is not very elastic and does not fill gaps.
-- [3M Scotch Weld DP
-- 8005](https://www.google.com/search?q=3M+Scotch-Weld%E2%84%A2+DP+8005) - a
-- two component glue which cannot be purchased by private persons and even not
-- to profesional glue guys without having them a special mandatory
+* Acrylat based super glue, but it is not very elastic and does not fill gaps.
+* [3M Scotch Weld DP 8005](https://www.google.com/search?q=3M+Scotch-Weld%E2%84%A2+DP+8005): A
+    two component glue which cannot be purchased by private persons and even
+    not to professional glue guys without having them a special mandatory
     security instruction. Besides that it is really expensive.
-- [technicoll® 9310](https://www.technicoll.eu/adhesive/technicoll-9310-3.html)
-- a hot glue system which is easy to handle and relatively cheap.
+* [technicoll® 9310](https://www.technicoll.eu/adhesive/technicoll-9310-3.html): A 
+    hot glue system which is easy to handle and relatively cheap.
+* Domestic use two component glue for plastic - most of them are not suitable 
+  for pp. Anyhow - i needed one to glue the screens on the rails and used 
+  [UHU Plus endfest](https://www.uhu.com/de-de/produkte/uhu-plus-endfest-doppelkammerspritze-blister),
+  which did not had this warning on it (and i made the 
+  [burn test to identify the type of plastic](https://mediencommunity.de/content/237-erkennen-von-kunststoffen) 
+  before).
 
 Hot glue has special challenges in conjunction with aluminium which tends to
 have a very high thermal transfer, the open time of any already applied hotglue
 is very short.
+
+I tried to hotglue the screens on to alu rails, but that did not last long (shorter than one night)
+
+![hot-glue fail2](pics/hotglue-fail2_sm.jpg)
+![hot-glue fail](pics/hotglue-fail_sm.jpg)
+
+The UHU 2k stuff worked fine (after removing all the hotglue and sanding (again) both sides).
 
 ## Rivets and Screws
 
