@@ -105,7 +105,7 @@ normed bighead pozidrive?
 I started to build a first set of rails around the handle bulb. The connector
 angles help to create perfect fitting.
 
-See [chips warning](tools.md#sawing-aluminium) before you start.
+See [chips warning](tools.md#sawing-aluminium) before you run your saw.
 
 ![ground work](pics/ground-rig_sm.jpg)
 

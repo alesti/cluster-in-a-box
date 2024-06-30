@@ -50,6 +50,8 @@ fancy ipv6-shit.  I use one port as uplink into the home network.
 
 The provisioning node is also an Odroid (H2 type) in the labnet.
 
+The switches run on 8 to 30 Volts DC.
+
 ### Cooling
 
 My personal H2 has a pwm controlled 92mm fan on the top of its case, but it barely uses
@@ -77,3 +79,27 @@ build a suitable power distribution cable.
 
 In real live a H2/H3 with 8/16GB RAM and 250GB M2 'disk' consumes less than ~1A
 as far as there is no real spinning SATA disk involved.
+
+I added an external fan to the PSU - there is one in it, but bad quality and really loud if running. The fan is just connected to the DC output.
+
+![fan-psu](pics/fan-psu_sm.jpg)
+
+### Display 
+
+To be completly selfcontained i needed at least one Screen or a tablet to show what happens.
+It should run on the same dc power and needs hdmi to get connected.
+
+I opted for external laptop displays which aim to run as easy to transport and
+connect 2nd display for laptop users.  
+
+They have a decent resolution and run on usb power. It was difficult to find
+some with hdmi besides the really cheap chinese no-brand thingies, most of the
+better types use usb-c only for signal and power.  I could not find one with
+vesa type connector on the back and this small width to put them into the lid
+of my container. 
+
+![screen-fitting](pics/screen-fitting_sm.jpg)
+
+I choose [Verbatim PM-14](https://www.amazon.de/dp/B0BVL1KKK) for 90 € each. I
+am not sure if Verbatim is still a real brand, but i dont care, they are good
+enough to peek into k9s or something similar.
