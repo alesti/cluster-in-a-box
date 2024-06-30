@@ -127,7 +127,7 @@ stacks to have some suspension against hard impacts.
 ![intermediate cage](pics/cage_sm.jpg)
 ![intermediate cage](pics/cage-with-stacks_sm.jpg)
 
-### Uh your an angel
+### Uh you are an angel
 
 It is really easy to use these angles to connect rails in a very sturdy way.
 There are also preformed corners to connect two or three rails directly in the
@@ -162,3 +162,4 @@ The PSU is the most heavy single peace in that case, it is also trapped on all
 sides.  It is really easy to build tight fitting cages with this connection
 triangles as they are movable in both directions until really screwed down.
 
+![psu](pics/psu_sm.jpg)

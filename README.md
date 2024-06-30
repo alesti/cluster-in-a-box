@@ -23,6 +23,8 @@ I will also try to list the costs.
 
 Spoiler: This is an expensive project with questionable benefit.
 
+![boxed-cluster1](pics/boxed-cluster1_sm.jpg)
+
 ## Learning from the past
 
 ### The 18 node lab cluster 
@@ -70,30 +72,33 @@ Learning from the experiences above and the thing Tim from BrainGu built, i want
 to connect the already working small stacks with a easy to handle, rugged
 container. 
 
-## Outer shell - box
+![box-on-biketrailer](pics/box-on-biketrailer_sm.jpg)
 
-This is an extra chapter [Outer shell and boxes](box.md).
+I do not have a car - but the boxed cluster has its own (cheap) wheels to move
+it by train or even a flight (do not know, if this might be a problem with the
+security, but i consider it stable enough for the luggage handling on
+airports). 
 
-## A inner rig for the stacks 
+### Outer shell - box
 
-This is an extra chapter [Inner rig](alu-rails.md).
+This is an extra chapter: [Outer Shell and Boxes](box.md).
+
+### A inner rig for the stacks 
+
+This is an extra chapter: [Inner Frame](alu-rails.md).
 
 
-## Connect the inner frame to the case
+### Connect the inner frame to the case
 
 I am not yet sure if i want to connect the alu frame in a solid way to the case. 
 But if, i needed to explore the possibilities.
 
 This is also an extra chapter [Connect the frame with the box](frame-box-connection.md).
 
-
-## Interfaces
-
-This is a show case, so it should be possible to view and interact with the rig.
-
-
 ## Skills and Tools
 
 What skills and which tools are needed to build this thing?
 
 ## Costs
+
+

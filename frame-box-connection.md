@@ -26,19 +26,13 @@ Read the last sentence again :-) But anyhow:
 The case is made from polypropylene which counts as a low adhesive and hard to
 bond material.  This needs special glue, i found three types:
 
-* Acrylat based super glue, but it is not very elastic and does not fill gaps.
+* Acrylat based adhesive aka *super glue*, but it is not very elastic and does not fill gaps.
 * [3M Scotch Weld DP 8005](https://www.google.com/search?q=3M+Scotch-Weld%E2%84%A2+DP+8005): A
     two component glue which cannot be purchased by private persons and even
     not to professional glue guys without having them a special mandatory
     security instruction. Besides that it is really expensive.
 * [technicoll® 9310](https://www.technicoll.eu/adhesive/technicoll-9310-3.html): A 
     hot glue system which is easy to handle and relatively cheap.
-* Domestic use two component glue for plastic - most of them are not suitable 
-  for pp. Anyhow - i needed one to glue the screens on the rails and used 
-  [UHU Plus endfest](https://www.uhu.com/de-de/produkte/uhu-plus-endfest-doppelkammerspritze-blister),
-  which did not had this warning on it (and i made the 
-  [burn test to identify the type of plastic](https://mediencommunity.de/content/237-erkennen-von-kunststoffen) 
-  of the display before).
 
 Hot glue has special challenges in conjunction with aluminium which tends to
 have a very high thermal transfer, the open time of any already applied hotglue
@@ -48,6 +42,15 @@ I tried to hotglue the screens on to alu rails, but that did not last long (shor
 
 ![hot-glue fail2](pics/hotglue-fail2_sm.jpg)
 ![hot-glue fail](pics/hotglue-fail_sm.jpg)
+
+But there is one more...
+
+* Two component glue for everything (nothing fancy, for domestic use) - most of them are not suitable 
+  for pp. Anyhow - i needed one to glue the screens on the rails and used 
+  [UHU Plus endfest](https://www.uhu.com/de-de/produkte/uhu-plus-endfest-doppelkammerspritze-blister),
+  which did not had this warning on it (and i made the 
+  [burn test to identify the type of plastic](https://mediencommunity.de/content/237-erkennen-von-kunststoffen) 
+  of the display before).
 
 The UHU 2k stuff worked fine (after removing all the hotglue and sanding (again) both sides).
 
@@ -73,8 +76,8 @@ to sides and bottom already.
 
 ## Foam
 
-I planned to add some extra support to the stacks by using some foam between
-the stack and the rails.
+I planned to add some extra support to the 3d printed odroid stacks by using
+some foam between the stack and the rails.
 
 It was not easy to find the right type, looks like there is no easy to stomach
 system which describes the pressure sensivity of the different types of foam.
@@ -89,9 +92,9 @@ in two different thicknesses and spray adhesive for it.
 
 ![foam](pics/foam_sm.jpg)
 
-I used it to trap the odroid cages in the alu rig (see [Fencing with
-Foam](alu-rails.md#fencing-with-foam)) and tried to build a protective, removable layer for transport only between
-bottom and lid with the displays.
+I used it to trap the odroid cages in the alu frame (see [Fencing with
+Foam](alu-rails.md#fencing-with-foam)) and tried to build a protective,
+removable inlay (for transport only) between bottom and lid with the displays.
 
 This foam can be cut with a cutter knife, but much cleaner with a hot cutter.
 
@@ -99,7 +102,8 @@ This foam can be cut with a cutter knife, but much cleaner with a hot cutter.
 
 Even if the spray glue was exactly for this foam it was difficult to apply,
 next time i would choose a liquid glue and prepare the other side of the
-connection better, particulary with plywood which sucks the glue up.
+connection better, particulary with bare plywood (the transport layin) which
+sucks the glue up.
 
 It needed some weight to get a full laminar connection.
 ![foam-glue-pressing](pics/foam-glue-pressing_sm.jpg)
@@ -107,16 +111,17 @@ It needed some weight to get a full laminar connection.
 
 ## Lid connectors
 
-I used the factory prepared mountpoints in the lid to connect the rails with the displays.
+I used the factory prepared mountpoints in the lid to connect the rails with
+the displays with my own anchor pieces.
 
 ![lid](pics/lid_sm.jpg)
 
-I constructed them with
+I drawed them with
 [Fusion360](https://www.autodesk.com/products/fusion-360/personal). It took 3
-test print rounds until i was satisfied with the print, there is a step in it and i needed
-a really tight fit.
+test print and redesign rounds until i was satisfied with the fit, there is a
+step in it and i needed a really tight fit.
 
-![lid connector 3d](pics/lid-connector-3d_sm.jpg)
+![lid connector 3d](pics/lid-connector-3d_sm.png)
 
 These have a M5 screw which is connected with a t-nut and the alu rig.
 
