@@ -127,6 +127,8 @@ stacks to have some suspension against hard impacts.
 ![intermediate cage](pics/cage_sm.jpg)
 ![intermediate cage](pics/cage-with-stacks_sm.jpg)
 
+### Uh your an angel
+
 It is really easy to use these angles to connect rails in a very sturdy way.
 There are also preformed corners to connect two or three rails directly in the
 corner, but they are more expensive and there is no margin left for adjusting
@@ -134,13 +136,16 @@ some 1/10 mm if neccessary.
 
 ![with powersupply](pics/cage-psu_sm.jpg)
 
-I mounted the odroid stacks inbetween the rails with some
+### Fencing with Foam
+
+I mounted the odroid stacks between the rails with some
 [foam](frame-box-connection.md#foam), that was a little bit tricky besides to
 find the right type of foam.
 
 My odroid-stacks are asymetric by attaching my [rackmount fan
 connector](https://www.thingiverse.com/thing:5867495) on the right side, i
-needed different thick foam to get a even pressure on both sides of a stack.
+needed a different thickness of the foam to get a even pressure on both sides
+of a stack.
 
 ![foam3](pics/foam3_sm.jpg)
 ![foam4](pics/foam4_sm.jpg)
@@ -151,8 +156,9 @@ The rails on the top do bend very slighly - with one stack more it would need
 more downforce support in the middle or bigger diameters for this long
 unsupported distance.
 
+### Fencing without Foam
+
 The PSU is the most heavy single peace in that case, it is also trapped on all
 sides.  It is really easy to build tight fitting cages with this connection
 triangles as they are movable in both directions until really screwed down.
-
 

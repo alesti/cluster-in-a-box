@@ -54,34 +54,53 @@ The UHU 2k stuff worked fine (after removing all the hotglue and sanding (again)
 ## Rivets and Screws
 
 Screwing and riveting will reduce the water tightness of the case, but i do 
-not care. But there are holes in it afterwards.
+not care - there are holes in it afterwards.
 
 The box has really rugged surface on the outside, it would need good planing to
 find spots with no structure elements on the outside and similar.
 
 It might be possibe to drill holes with a template from the inside and use M5
-screws with washers or Karosseriescheiben connect into t-slot nuts. 
+screws with large diameter washers connecting into t-slot nuts. 
 
-I am pretty sure not to use rivets in that case, even if i have the tools to
+I was pretty sure not to use rivets in that case, even if i have the tools to
 set proper rivets.  I like connections which are revertable without a drill.
 
 At the end i drilled holes through the rails and the outer shell and supported
 the relatively weak shell with large diameter washers.
 
-This is just to minimize movement to the lid - the inner rig is sitting tight
+This is just to minimize movement towards the lid - the inner rig is sitting tight
 to sides and bottom already.
 
 ## Foam
 
 I planned to add some extra support to the stacks by using some foam between
-the stack and the rails.  It was not easy to find the right type, looks like
-there is no easy to stomach system which describes the impressionability of the
-different types of foam.
+the stack and the rails.
+
+It was not easy to find the right type, looks like there is no easy to stomach
+system which describes the pressure sensivity of the different types of foam.
 
 I found this description from [Caseclub Foam
 Types](https://www.caseclub.com/different-types-of-foam-for-cases/) useful -
 especially the picture with the clamp.
 
-After buying wrong (very squeezeble) foam, i am trying now FIXME
-Rausnehmbar
+After buying wrong (very squeezeble) foam, i tried [Adam Hall Hardware 019310
+SA](https://www.adamhall.com/shop/de-de/flightcase-material/schaumstoffe/144/019310-sa)
+in two different thicknesses and spray adhesive for it.
+
+![foam](pics/foam_sm.jpg)
+
+I used it to trap the odroid cages in the alu rig (see [Fencing with
+Foam](alu-rails.md#fencing-with-foam) and to build a protective thing between
+bottom and lid with the displays.
+
+This foam can be cut with a cutter knife, but much cleaner with a hot cutter.
+
+![foam1](pics/foam1_sm.jpg)
+
+Even if the spray glue was exactly for this foam it was difficult to apply,
+next time i would choose a liquid glue and prepare the other side of the
+connection better, particulary with plywood which sucks the glue up.
+
+![foam-glue-pressing](pics/foam-glue-pressing_sm.jpg)
+![foam-glue2](pics/foam-glue2_sm.jpg)
 
