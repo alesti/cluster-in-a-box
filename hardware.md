@@ -10,20 +10,24 @@ with good specs:
 * 2x 2.5Gbit ethernet interfaces, (i)pxe booting
 * 2x S0-DIMM memory slots (up to 32 GB each)
 * multiple disk options (SATA, PCIe M.2 NVMe, eMMC)
+* small footprint - 110mm x 110mm 
 
 ![odroids](pics/odroids_sm.jpg)
 
 First i aimed for arm64 (also known as Raspberry4, but the 8GB RAM version is
-at 180 € (january 2023), if it is in stock somewhere, and its not possible
-to add more RAM later. If Raspi is an option, you should head over to [Building a
+at 180 € (january 2023), if it is in stock somewhere, and its not possible to
+add more RAM later. If Raspi is an option, you should head over to [Building a
 bare-metal Kubernetes Cluster on Raspberry
-Pi](https://anthonynsimon.com/blog/kubernetes-cluster-raspberry-pi/) and https://github.com/christianhuening/pinetes/blob/main/README.md.
+Pi](https://anthonynsimon.com/blog/kubernetes-cluster-raspberry-pi/) and
+https://github.com/christianhuening/pinetes/blob/main/README.md.
 
 My H2 and H3 Odroids have (right now):
 
 - 8 or 16 GB RAM (SO-DIMM)
 - 256 GB M.2 2280 PCIe NVMe 
 - 32 GB eMMC (on H2 nodes only)
+
+![odroid-cage](pics/odroid-cage1_sm.jpg)
 
 I am already familar with the predecessor [Odroid H2 (similar specs, Celeron
 CPU)](https://wiki.odroid.com/odroid-h2/start), my personal one serves all
@@ -36,7 +40,7 @@ switch, storage going crazy...).
 
 ### Switch / Router
 
-![odroid-cage](pics/odroid-cage1_sm.jpg)
+![odroid-cage-switch](pics/odroids-cage-switch_sm.jpg)
 
 To reduce the blast radius and protect my home network i searched for a little
 router to separate the home network from the lab network.  I opted for a
@@ -50,6 +54,8 @@ The provisioning node is also an Odroid (H2 type) in the labnet.
 
 My personal H2 has a pwm controlled 92mm fan on the top of its case, but it barely uses
 it under normal work load.
+
+![odroid-fans](pics/odroid-fans_sm.jpg)
 
 As i inherited some additional H2 nodes i decided to build a
 better fitting cooling solution dedicated to each node. I needed a different
@@ -66,6 +72,8 @@ with 15V DC, the MikroTik is also fine with 15V, so i bought a [ham radio power
 supply](https://www.komerci.de/shop/stromversorgung/Festspannungsnetzgeraete/ps30swiv-festspannungsnetzgeraet-13-8v-30a-lcd)
 with 15V and 30 Amps max and some 5.5 mm dc power jacks with open wires and
 build a suitable power distribution cable.
+
+![psu.jpg](pics/psu.jpg)
 
 In real live a H2/H3 with 8/16GB RAM and 250GB M2 'disk' consumes less than ~1.5A
 as far as there is no real spinning SATA disk involved.
