@@ -10,7 +10,7 @@ forth with the [stacked odroids](stackrack.md) i saw a 6 nodes kubernetes
 cluster in a [pelicase style](https://www.peli.com/) rugged case on the
 KubeConEu Paris 2034 booth of [BrainGu](https://braingu.com/).
 
-FIXME: Ask Tim from BrainGu for permission to show a picture of his setup.
+FIXME: No answer so far from Tim/BrainGu for permission to show a picture of his setup.
 
 I directly started to think how i could build something similar based on my
 [Odroids](hardware.md).

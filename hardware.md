@@ -1,4 +1,4 @@
-## Hardware
+## Compute, Switch and Power Hardware
 
 ### Nodes
 
@@ -10,6 +10,8 @@ with good specs:
 * 2x 2.5Gbit ethernet interfaces, (i)pxe booting
 * 2x S0-DIMM memory slots (up to 32 GB each)
 * multiple disk options (SATA, PCIe M.2 NVMe, eMMC)
+
+![odroids](pics/odroids_sm.jpg)
 
 First i aimed for arm64 (also known as Raspberry4, but the 8GB RAM version is
 at 180 € (january 2023), if it is in stock somewhere, and its not possible
@@ -34,11 +36,13 @@ switch, storage going crazy...).
 
 ### Switch / Router
 
+![odroid-cage](pics/odroid-cage1_sm.jpg)
+
 To reduce the blast radius and protect my home network i searched for a little
 router to separate the home network from the lab network.  I opted for a
-[MikroTik hEX RB750Gr3](https://mikrotik.com/product/RB750Gr3). MikroTiks routerOS
-allows a lot of different configurations if neccessary.  I use one port as
-uplink into the home network.
+[MikroTik hEX RB750Gr3](https://mikrotik.com/product/RB750Gr3). MikroTiks
+routerOS allows a lot of different configurations if neccessary - up to BGB and
+fancy ipv6-shit.  I use one port as uplink into the home network.
 
 The provisioning node is also an Odroid (H2 type) in the labnet.
 
