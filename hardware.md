@@ -104,3 +104,9 @@ of my container.
 I choosed [Verbatim PM-14](https://www.amazon.de/dp/B0BVL1KKK). I
 am not sure if Verbatim is still a real brand, but i dont care, they are good
 enough to peek into k9s or something similar.
+
+Due the tight space i bought 90° connectors for hdmi and usb-c.
+
+![lid with rig](pics/lid-with-rig_sm.jpg)
+
+For transport (lid closed) the cables needed to removed from the screens.

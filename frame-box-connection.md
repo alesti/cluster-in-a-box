@@ -38,7 +38,7 @@ bond material.  This needs special glue, i found three types:
   [UHU Plus endfest](https://www.uhu.com/de-de/produkte/uhu-plus-endfest-doppelkammerspritze-blister),
   which did not had this warning on it (and i made the 
   [burn test to identify the type of plastic](https://mediencommunity.de/content/237-erkennen-von-kunststoffen) 
-  before).
+  of the display before).
 
 Hot glue has special challenges in conjunction with aluminium which tends to
 have a very high thermal transfer, the open time of any already applied hotglue
@@ -90,7 +90,7 @@ in two different thicknesses and spray adhesive for it.
 ![foam](pics/foam_sm.jpg)
 
 I used it to trap the odroid cages in the alu rig (see [Fencing with
-Foam](alu-rails.md#fencing-with-foam) and to build a protective thing between
+Foam](alu-rails.md#fencing-with-foam)) and tried to build a protective, removable layer for transport only between
 bottom and lid with the displays.
 
 This foam can be cut with a cutter knife, but much cleaner with a hot cutter.
@@ -101,6 +101,26 @@ Even if the spray glue was exactly for this foam it was difficult to apply,
 next time i would choose a liquid glue and prepare the other side of the
 connection better, particulary with plywood which sucks the glue up.
 
+It needed some weight to get a full laminar connection.
 ![foam-glue-pressing](pics/foam-glue-pressing_sm.jpg)
 ![foam-glue2](pics/foam-glue2_sm.jpg)
+
+## Lid connectors
+
+I used the factory prepared mountpoints in the lid to connect the rails with the displays.
+
+![lid](pics/lid_sm.jpg)
+
+I constructed them with
+[Fusion360](https://www.autodesk.com/products/fusion-360/personal). It took 3
+test print rounds until i was satisfied with the print, there is a step in it and i needed
+a really tight fit.
+
+![lid connector 3d](pics/lid-connector-3d_sm.jpg)
+
+These have a M5 screw which is connected with a t-nut and the alu rig.
+
+![lid connectors](pics/lid-connectors_sm.jpg)
+
+![lid with rig](pics/lid-with-rig_sm.jpg)
 
