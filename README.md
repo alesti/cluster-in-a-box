@@ -2,6 +2,8 @@
 
 Buiilding a Demo / Lab K8S Cluster in a easy and secure transportable box.
 
+![boxed-cluster](pics/boxed-cluster2_sm.jpg)
+
 After my first attempt of building a [18 node lab
 cluster](#the-18-node-lab-cluster) for an former company and some back and
 forth with the [stacked odroids](stackrack.md) i saw a 6 nodes kubernetes
