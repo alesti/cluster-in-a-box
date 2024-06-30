@@ -40,7 +40,7 @@ switch, storage going crazy...).
 
 ### Switch / Router
 
-![odroid-cage-switch](pics/odroids-cage-switch_sm.jpg)
+![odroid-cage-switch](pics/odroid-cage-switch_sm.jpg)
 
 To reduce the blast radius and protect my home network i searched for a little
 router to separate the home network from the lab network.  I opted for a
@@ -73,7 +73,7 @@ supply](https://www.komerci.de/shop/stromversorgung/Festspannungsnetzgeraete/ps3
 with 15V and 30 Amps max and some 5.5 mm dc power jacks with open wires and
 build a suitable power distribution cable.
 
-![psu.jpg](pics/psu.jpg)
+![psu](pics/psu_sm.jpg)
 
-In real live a H2/H3 with 8/16GB RAM and 250GB M2 'disk' consumes less than ~1.5A
+In real live a H2/H3 with 8/16GB RAM and 250GB M2 'disk' consumes less than ~1A
 as far as there is no real spinning SATA disk involved.

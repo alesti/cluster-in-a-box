@@ -3,20 +3,20 @@
 I have some experiences in the live music / festival industry, so i am familar
 with [flightcases](https://www.google.com/search?q=flightcase+pictures). Almost
 all of them have wheels - they are really heavy duty
-and need effort to move them around even if they are empty; you need to
+and need some effort to move them around even if they are empty; you need to
 protect the surroundings against their corners, you need a truck and not a car
 to transport them. => No flightcase in this project.
 
-I liked the idea of using a [PeliCase](https://www.peli.com/) or similar
-solution.  They are really stable, light for the grade of protection, some of
-them have wheels and a retractable handle.
+I like the idea of using a [PeliCase](https://www.peli.com/) or similar
+solution.  They are really stable, light for the actual grade of protection,
+some of them have wheels and a retractable handle.
 
 There are a lot of similar but different brands - i found this [comparison -
 Pelican Case Alternatives](https://www.gwp.co.uk/guides/peli-case-alternatives/)
 helpful to get a first glimpse.
 
 I aimed for a box with wheels and a handle, i do not need a swimming,
-waterproof, bullet proof expedition solution which works at -20°C.
+water- and bulletproof expedition solution which works at -20°C.
 
 I wanted to store 3 stacks with 4 Odroids each, a power supply and switches in it, the
 lid should be deep enough to hold a display or a tablet.
@@ -49,4 +49,4 @@ in it.
 The offical measures do not follow the bulges which are needed for the wheels
 and the handle, but i predicted that with their detail drawings. 
 
-
+After this purchase i started to think about the [inner cage](alu-rails.md).
