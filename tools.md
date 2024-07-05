@@ -1,9 +1,9 @@
 # Tools and Skills
 
-Skills: Nothing special, i think. 
+Skills: Nothing special.  
 
-Think twice, cut once - all skills neccessary for this project are achiveable
-just by doing it again and getting better. 
+Think twice, cut once - all skills neccessary for this project are achievable
+just by doing it again and getting some practice. 
 
 ## Cutting aluminium
 
@@ -35,7 +35,7 @@ The cuts where so good that i did not needed to file down the cuts.
 ## Workshop?
 
 I am not sure if it would be satisfying to build this on the kitchen table. 
-It would be possible, yes.
+It would be possible, besides the aluminium cuts.
 
 ## Measureing
 
@@ -69,7 +69,7 @@ printers to the max.
 
 I just want to build prototypes, so i run a [Prusa
 MK3S](https://www.prusa3d.com/de/kategorie/original-prusa-i3-mk3s/). Someone
-else tweaked them before the started to selling them.
+else tweaked them before they started to selling them.
 
 ![Prusa MK3S](pics/prusaprinter_sm.png)
 
@@ -80,14 +80,13 @@ am used to it, i never changed to more open software.
 ## Hot cutter
 
 This is expensive for a single use event. I had one for other purposes already
-and used it.  If you are in soldering, looking for a suitable blade for your
-soldering iron. I know that at least Ersa  has some.
+and used it.  If you are in soldering, search for a suitable blade for your
+soldering iron. I know that at least Ersa has some.
 
 Its also possible to use a sharp cutter knife.
 
 ## Hot glue pistol
 
 Do not use hotglue with [aluminum until you are able to
-preheat](frame-box-connection.md#glue) it.  The 2nd is dangerous, and i tried
-it without. Aluminium will eat up all heat from the glue directly and the open
-time of the glue is nearly no time. 
+preheat](frame-box-connection.md#glue) it.  Aluminium will eat up all heat from
+the glue directly and the open time of the glue is nearly no time. 
