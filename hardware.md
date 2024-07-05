@@ -103,7 +103,8 @@ of my container.
 
 ![screen-fitting](pics/screen-fitting_sm.jpg)
 
-I choosed [Verbatim PM-14](https://www.amazon.de/dp/B0BVL1KKK). I
+I choosed [Verbatim
+PM-14](https://www.amazon.de/Verbatim-Portable-Bildschirm-Smartphone-HDMI-Anschluss/dp/B0BVL1KKKL).
 am not sure if Verbatim is still a real brand, but i dont care, they are good
 enough to peek into k9s or something similar.
 
