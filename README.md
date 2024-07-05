@@ -97,8 +97,8 @@ This is also an extra chapter [Connect the frame with the box](frame-box-connect
 
 ## Skills and Tools
 
-What skills and which tools are needed to build this thing?
+What [skills and which tools are needed](tools.md) to build this thing?
 
 ## Costs
 
-
+I need to figure that out. Still open.

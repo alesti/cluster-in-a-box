@@ -1,4 +1,9 @@
-# Tools
+# Tools and Skills
+
+Skills: Nothing special, i think. 
+
+Think twice, cut once - all skills neccessary for this project are achiveable
+just by doing it again and getting better. 
 
 ## Cutting aluminium
 
@@ -27,11 +32,19 @@ polute any steel with rust.
 I do not see any abrasion/usage signs on the sawblade after i finished all cuts.
 The cuts where so good that i did not needed to file down the cuts.
 
+## Workshop?
+
+I am not sure if it would be satisfying to build this on the kitchen table. 
+It would be possible, yes.
+
 ## Measureing
 
 I really like my new marking tool, a steel needle. Very thin line for accurate cuts.
-
 Use a good square to run the marks.
+
+The cut of an circular saw blade is about 2mm wide - so think twice on which side of
+the mark you will do the cut ; cut always on the opposite side of the mark of the
+piece you will use.
 
 To measure the right lenght i used a tape measure. Its more accurate while it has
 its own limit stop at one end and its more easy to handle in a confined space
@@ -41,7 +54,7 @@ than a folding rule.
 
 Nothing special. 
 
-A hex / allen key, some screwdrivers.
+A hex/allen key, some screwdrivers.
 
 ## Drill, Thread cutter
 
