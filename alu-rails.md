@@ -109,7 +109,7 @@ See [chips warning](tools.md#sawing-aluminium) before you run your saw.
 
 ![ground work](pics/ground-rig_sm.jpg)
 
-The handle bulb is 20.something mm high, so the 20mm rails match perfectly.
+The handle bulb is 19.something mm high, so the 20mm rails match perfectly.
 
 I was a little concerned about the edges of the box - they are rounded. But
 thats not a problem for this type of construction.

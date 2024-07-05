@@ -6,5 +6,5 @@ fileignoreconfig:
 - filename: stackrack.md
   checksum: 13fb4743571ea6f3dbe032fb2f2224bedb070fcee7686387669363e1105d9928
 - filename: tools.md
-  checksum: 681540f2fc766a9e15bae3f0994bb2dbadef0e18b2a3de694cd69ce5b0283e40
+  checksum: 56f09dd9e8810d347f7fc5be5c3129d73d61801954904009465115e93654da56
 version: "1.0"

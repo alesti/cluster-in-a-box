@@ -33,13 +33,15 @@ I really like my new marking tool, a steel needle. Very thin line for accurate c
 
 Use a good square to run the marks.
 
-To mesure the right lenght i used a tape measure. Its more accurate as it has
+To measure the right lenght i used a tape measure. Its more accurate while it has
 its own limit stop at one end and its more easy to handle in a confined space
 than a folding rule. 
 
 ## Hand tools
 
-Nothing special. A hex / allen key, some screwdrivers.
+Nothing special. 
+
+A hex / allen key, some screwdrivers.
 
 ## Drill, Thread cutter
 
@@ -49,11 +51,14 @@ cordless drill.
 
 ## 3d printer
 
-I run a 3d printer, but i do not claim it as my hobby to configure and tweak 3d
-printers.
+I run a 3d printer, but i do not feel it as my hobby to configure and tweak 3d
+printers to the max.
 
-I just want to build prototypes, so i run a Prusa MK3S.
+I just want to build prototypes, so i run a [Prusa
+MK3S](https://www.prusa3d.com/de/kategorie/original-prusa-i3-mk3s/). Someone
+else tweaked them before selling them.
 
+![prusa](pics/
 I started with drawing pieces in 2017 with Fusion360, and while i am used to it, i 
 never changed to more open software. 
 
