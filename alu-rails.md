@@ -163,3 +163,5 @@ sides.  It is really easy to build tight fitting cages with this connection
 triangles as they are movable in both directions until really screwed down.
 
 ![psu](pics/psu_sm.jpg)
+
+Go ahead with the [connection between inner rails and case](frame-box-connection.md).

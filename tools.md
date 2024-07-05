@@ -56,11 +56,13 @@ printers to the max.
 
 I just want to build prototypes, so i run a [Prusa
 MK3S](https://www.prusa3d.com/de/kategorie/original-prusa-i3-mk3s/). Someone
-else tweaked them before selling them.
+else tweaked them before the started to selling them.
 
-![prusa](pics/
-I started with drawing pieces in 2017 with Fusion360, and while i am used to it, i 
-never changed to more open software. 
+![Prusa MK3S](pics/prusaprinter_sm.png)
+
+I started with drawing pieces in 2017 with
+[Fusion360](https://www.autodesk.de/products/fusion-360/overview), and while i
+am used to it, i never changed to more open software. 
 
 ## Hot cutter
 
@@ -72,6 +74,7 @@ Its also possible to use a sharp cutter knife.
 
 ## Hot glue pistol
 
-Do not use hotglue with aluminum until you are able to preheat it.  The 2nd is
-dangerous, and i tried it without. Aluminium will eat up all heat from the glue
-directly and the open time of the glue is nearly no time. 
+Do not use hotglue with [aluminum until you are able to
+preheat](frame-box-connection.md#glue) it.  The 2nd is dangerous, and i tried
+it without. Aluminium will eat up all heat from the glue directly and the open
+time of the glue is nearly no time. 

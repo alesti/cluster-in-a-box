@@ -118,7 +118,7 @@ the displays with my own anchor pieces.
 
 I drawed them with
 [Fusion360](https://www.autodesk.com/products/fusion-360/personal). It took 3
-test print and redesign rounds until i was satisfied with the fit, there is a
+test print- and redesign rounds until i was satisfied with the fit, there is a
 step in it and i needed a really tight fit.
 
 ![lid connector 3d](pics/lid-connector-3d_sm.png)

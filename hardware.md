@@ -14,6 +14,8 @@ with good specs:
 
 ![odroids](pics/odroids_sm.jpg)
 
+They lack a BMC (baseboard management controller, ihlo, idrac, you name it)
+
 First i aimed for arm64 (also known as Raspberry4, but the 8GB RAM version is
 at 180 € (january 2023), if it is in stock somewhere, and its not possible to
 add more RAM later. If Raspi is an option, you should head over to [Building a
@@ -30,8 +32,8 @@ My H2 and H3 Odroids have (right now):
 ![odroid-cage](pics/odroid-cage1_sm.jpg)
 
 I am already familar with the predecessor [Odroid H2 (similar specs, Celeron
-CPU)](https://wiki.odroid.com/odroid-h2/start), my personal one serves all
-typical local things at home since years, and we used also Odroid H2s to build
+CPU)](https://wiki.odroid.com/odroid-h2/start), i run a personal one at home which serves all
+typical local things you need since years, and we used also Odroid H2s to build
 an [18 node bare metal lab cluster at
 work](https://photos.google.com/share/AF1QipPIxF5isLFw8q3Y5bL6p22sNWmxLYC7JQUArTgIg4MjGRWVMu8LyGeXqT3R3Gx_gA?key=Z1ZZc3Z1bnAxakNpbEdfRTFLbk5TWDRBNXRUal93)
 to build a test environment for things which cannot be tested in kind, minikube
