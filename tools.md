@@ -83,6 +83,8 @@ This is expensive for a single use event. I had one for other purposes already
 and used it.  If you are in soldering, search for a suitable blade for your
 soldering iron. I know that at least Ersa has some.
 
+![foam1](pics/foam1_sm.jpg)
+
 Its also possible to use a sharp cutter knife.
 
 ## Hot glue pistol
