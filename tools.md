@@ -67,15 +67,21 @@ cordless drill.
 I run a 3d printer, but i do not feel it as my hobby to configure and tweak 3d
 printers to the max.
 
-I just want to build prototypes, so i run a [Prusa
-MK3S](https://www.prusa3d.com/de/kategorie/original-prusa-i3-mk3s/). Someone
-else tweaked them before they started to selling them.
+If you just want to build prototypes like me, run a Prusa Printer.  Someone
+else tweaked them before they started to selling them, and my [Prusa
+MK3S](https://www.prusa3d.com/de/kategorie/original-prusa-i3-mk3s/) works like
+new since 2017.
 
 ![Prusa MK3S](pics/prusaprinter_sm.png)
 
-I started with drawing pieces in 2017 with
+Nearly all my prints are printed with PETG. I do not use PLA at all.
+
+I started drawing pieces in 2017 with
 [Fusion360](https://www.autodesk.de/products/fusion-360/overview), and while i
 am used to it, i never changed to more open software. 
+
+If you do not own a printer, find a local maker space or use a printservice as
+[Craftcloud3d](https://craftcloud3d.com)
 
 ## Hot cutter
 
@@ -92,3 +98,12 @@ Its also possible to use a sharp cutter knife.
 Do not use hotglue with [aluminum until you are able to
 preheat](frame-box-connection.md#glue) it.  Aluminium will eat up all heat from
 the glue directly and the open time of the glue is nearly no time. 
+
+If you try to hot glue on areas bigger then some centimeters, use a decent
+pistol, not this shitty, cheap things from your local hardware store. They are not
+able to heat the glue fast enought if you need a lot of glue.
+
+![hotglue pistol](pics/hotglue-pistol_sm.png)
+
+This one did its job, but the aluminium was faster to spread the heat away as i
+could glue and set the displays...
