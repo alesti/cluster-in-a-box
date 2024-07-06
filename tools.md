@@ -67,8 +67,10 @@ cordless drill.
 I run a 3d printer, but i do not feel it as my hobby to configure and tweak 3d
 printers to the max.
 
-If you just want to build prototypes like me, run a Prusa Printer.  Someone
-else tweaked them before they started to selling them, and my [Prusa
+If you just want to build prototypes and run it as a tool like me, consider to
+buy a (expensive) Prusa Printer and not a chinese one for half or less than half the price.
+Someone else at Prusa Labs tweaked them before they started to selling them -
+with chinese printers you need to learn that by yourself.  My [Prusa
 MK3S](https://www.prusa3d.com/de/kategorie/original-prusa-i3-mk3s/) works like
 new since 2017.
 
@@ -80,8 +82,8 @@ I started drawing pieces in 2017 with
 [Fusion360](https://www.autodesk.de/products/fusion-360/overview), and while i
 am used to it, i never changed to more open software. 
 
-If you do not own a printer, find a local maker space or use a printservice as
-[Craftcloud3d](https://craftcloud3d.com)
+If you do not own a printer, find a local maker space or use a printservice like
+[Craftcloud3d](https://craftcloud3d.com).
 
 ## Hot cutter
 
