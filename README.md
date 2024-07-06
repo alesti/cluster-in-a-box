@@ -8,7 +8,7 @@ After my first attempt of building a [18 node lab
 cluster](#the-18-node-lab-cluster) for a former company and some back and
 forth with the [stacked odroids](stackrack.md) i saw a 6 nodes kubernetes
 cluster in a [pelicase style](https://www.peli.com/) rugged case on the
-KubeConEu Paris 2034 booth of [BrainGu](https://braingu.com/).
+KubeConEu Paris 2024 booth of [BrainGu](https://braingu.com/).
 
 FIXME: No answer so far from Tim/BrainGu for permission to show a picture of his setup.
 
