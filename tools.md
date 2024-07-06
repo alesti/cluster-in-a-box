@@ -21,10 +21,10 @@ I bought a [aluminum / light metal blade from
 Freud](https://www.sautershop.de/kreissaegeblatt-hm-190-x-2.5/1.6-x-20-mm-z-56-fr-fr13a001h)
 for my mitersaw.
 
-These profiles are really easy to cut with the mighty miter saw (if you running
-an aluminium blade), but afterwards there are tons of saw chips everywhere -
-even with proper vacuum suction (DO NOT VACUUM HOT METAL CHIPS INTO YOUR WOOD
-DUST COLLECTION BIN - it might burn your workshop down!)
+These profiles are really easy to cut (if you running an aluminium blade), but
+afterwards there are tons of saw chips everywhere - even with proper vacuum
+suction (DO NOT VACUUM HOT METAL CHIPS INTO YOUR WOOD DUST COLLECTION BIN - it
+might burn your workshop down!)
 
 Do your workshop a favor and run these cuts somewhere outside - the chips will not
 polute any steel with rust.
@@ -42,9 +42,9 @@ It would be possible, besides the aluminium cuts.
 I really like my new marking tool, a steel needle. Very thin line for accurate cuts.
 Use a good square to run the marks.
 
-The cut of an circular saw blade is about 2mm wide - so think twice on which side of
-the mark you will do the cut ; cut always on the opposite side of the mark of the
-piece you will use.
+The cut of an circular saw blade is about 2mm wide - so think twice on which
+side of the mark you will do the cut ; cut always on the 'scrap' part of the
+mark and not in the actual piece you will use.
 
 To measure the right lenght i used a tape measure. Its more accurate while it has
 its own limit stop at one end and its more easy to handle in a confined space
