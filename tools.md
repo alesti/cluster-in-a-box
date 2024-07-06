@@ -101,7 +101,7 @@ the glue directly and the open time of the glue is nearly no time.
 
 If you try to hot glue on areas bigger then some centimeters, use a decent
 pistol, not this shitty, cheap things from your local hardware store. They are not
-able to heat the glue fast enought if you need a lot of glue.
+able to heat the glue fast enough if you need a lot of glue at the time.
 
 ![hotglue pistol](pics/hotglue-pistol_sm.png)
 
