@@ -40,6 +40,14 @@ to build a test environment for things which cannot be tested in kind, minikube
 and other virtual envs (like simulated blackout for a complete dc, a failing
 switch, storage going crazy...).
 
+The H2 are out of production.
+
+#### Future Nodes
+
+The 2024 [Odroid H4 Series](https://www.hardkernel.com/shop/odroid-h4/) (H4, H4
+plus, H4 ultra) have another layout and their board a bigger footprint. They
+will not fit into the printed cages.
+
 ### Switch / Router
 
 ![odroid-cage-switch](pics/odroid-cage-switch_sm.jpg)

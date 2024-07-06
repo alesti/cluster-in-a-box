@@ -101,4 +101,4 @@ What [skills and which tools are needed](tools.md) to build this thing?
 
 ## Costs
 
-I need to figure that out. Still open.
+I need to figure that out. So far i have only the [expenses for the box and the rig](costs.md) listed.
