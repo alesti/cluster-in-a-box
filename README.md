@@ -44,8 +44,8 @@ Known problems:
     heavy and not easy to carry. 
     
     We used that thing to find problems with our setup, but we never moved it to
-    conferences or customers to showcase our setup - it was just to heavy and
-    difficult to transport.
+    conferences or customers to showcase our setup - it was just too heavy and
+    difficult to transport - and Covid, of course.
 - Switches, power supplies and nodes could not be removed or changed in a easy
     way, in that case we would need a to do a lot of dissassembly work.
 - The rack was not as stable from corner to a diagonal corner as expected - it had 
