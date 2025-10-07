@@ -95,10 +95,10 @@ But if, i needed to explore the possibilities.
 
 This is also an extra chapter [Connect the frame with the box](frame-box-connection.md).
 
-## Skills and Tools
+### Skills and Tools
 
 What [skills and which tools are needed](tools.md) to build this thing?
 
-## Costs
+### Costs
 
 I need to figure that out. So far i have only the [expenses for the box and the rig](costs.md) listed.
